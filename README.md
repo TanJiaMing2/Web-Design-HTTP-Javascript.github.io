@@ -1,7 +1,8 @@
 # Web-Design-HTTP-Javascript
 
 
-A front-end web project demonstrating HTML, CSS, JavaScript, and basic HTTP concepts built during my Diploma studies.
+This is front-end web project demonstrating only the fundamental of HTML, CSS, JavaScript during my Diploma.
+Do notes that there is no Database function.
 
 [Click here to view the live site](https://tanjiaming2.github.io/Web-Design-HTTP-Javascript.github.io/TAN%20JIA%20MING_DCS2209221.html)
 
